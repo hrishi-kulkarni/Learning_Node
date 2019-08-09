@@ -1,0 +1,23 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishi-kulkarni/Learning_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishi-kulkarni/Learning_Node/issues"
+  },
+  "homepage": "https://github.com/hrishi-kulkarni/Learning_Node#readme",
+  "dependencies": {
+    "mongoose": "^5.6.9"
+  }
+}
